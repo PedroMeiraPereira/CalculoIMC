@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CalculoIMC</string>
+
+    <string name="titulo">Calculadora IMC</string>
+
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="resultadoimc">O seu IMC é %.2f</string>
+
+    <string name="imc1">Muito abaixo do peso</string>
+    <string name="imc2">Abaixo do peso</string>
+    <string name="imc3">Peso normal</string>
+    <string name="imc4">Acima do peso</string>
+    <string name="imc5">Obesidade I</string>
+    <string name="imc6">Obesidade II(severa)</string>
+    <string name="imc7">Obesidade III(morbida)</string>
+
+</resources>
